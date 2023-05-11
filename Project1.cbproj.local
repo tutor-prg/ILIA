@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.858,=C:\Users\hp\Desktop\KURS\constructor.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.979,C:\Users\hp\Desktop\KURS\constructor.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.955,=C:\Users\hp\Desktop\KURS\my_lib.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.980,=C:\Users\hp\Desktop\KURS\enterprise.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.407,=D:\PROJECTS\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.023,=C:\Users\hp\Desktop\KURS\person.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.895,=C:\Users\hp\Desktop\KURS\department.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.764,=C:\Users\hp\Desktop\KURS\value.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.202,=D:\PROJECTS\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.045,=C:\Users\hp\Desktop\KURS\technic.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.025,=C:\Users\hp\Desktop\KURS\person.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.948,=C:\Users\hp\Desktop\KURS\constructor.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.385,C:\Users\hp\Desktop\KURS\constructor.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.033,=C:\Users\hp\Desktop\KURS\project.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.428,=C:\Users\hp\Desktop\KURS\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.212,C:\Users\hp\Desktop\KURS\technic.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.091,=C:\Users\hp\Desktop\KURS\technic.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.186,C:\Users\hp\Desktop\KURS\technic.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.989,=C:\Users\hp\Desktop\KURS\equipment.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.936,=C:\Users\hp\Desktop\KURS\field.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.959,=C:\Users\hp\Desktop\KURS\department.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.996,=C:\Users\hp\Desktop\KURS\value.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.718,=C:\Users\hp\Desktop\KURS\my_lib.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.628,C:\Users\hp\Desktop\KURS\Project1.cbproj=D:\PROJECTS\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.644,C:\Users\hp\Desktop\KURS\engineer.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.013,=C:\Users\hp\Desktop\KURS\linkedlist.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.961,=C:\Users\hp\Desktop\KURS\enterprise.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.631,C:\Users\hp\Desktop\KURS\Project1PCH1.h=D:\PROJECTS\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.929,=C:\Users\hp\Desktop\KURS\engineer.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.661,C:\Users\hp\Desktop\KURS\Unit1.cpp=D:\PROJECTS\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.061,=C:\Users\hp\Desktop\KURS\project.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.976,=C:\Users\hp\Desktop\KURS\table.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.992,=C:\Users\hp\Desktop\KURS\equipment.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.699,=C:\Users\hp\Desktop\KURS\field.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.661,C:\Users\hp\Desktop\KURS\Unit1.h=D:\PROJECTS\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.970,=C:\Users\hp\Desktop\KURS\engineer.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.954,C:\Users\hp\Desktop\KURS\engineer.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.743,=C:\Users\hp\Desktop\KURS\table.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.661,C:\Users\hp\Desktop\KURS\Unit1.dfm=D:\PROJECTS\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
